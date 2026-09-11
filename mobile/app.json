@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Carnet de Route",
+    "slug": "carnet-de-route",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "carnetderoute",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"]
+  }
+}
